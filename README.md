@@ -72,6 +72,7 @@ DISTINCTCOUNT('Sales Dataset'[Order ID])
 
 ---
 
+
 ## Key Insights
 
 * Identified top-selling categories.
@@ -95,7 +96,8 @@ DISTINCTCOUNT('Sales Dataset'[Order ID])
 ## Dashboard Preview
 
 ### Executive Summary Dashboard
-<img width="1419" height="865" alt="1" src="https://github.com/user-attachments/assets/b7aba8e1-9846-4955-bd1c-7a943e441331" />
+![image alt](<img width="1419" height="865" alt="1" src="https://github.com/user-attachments/assets/39e40202-a94e-4b7e-8156-50db8933737d" />)
+
 
 ### Product Analysis Dashboard
 <img width="1425" height="861" alt="2" src="https://github.com/user-attachments/assets/682881e0-4bad-4e5e-92b9-4adb7d21063e" />
