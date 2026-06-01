@@ -96,7 +96,7 @@ DISTINCTCOUNT('Sales Dataset'[Order ID])
 ## Dashboard Preview
 
 ### Executive Summary Dashboard
-![image alt](<img width="1419" height="865" alt="1" src="https://github.com/user-attachments/assets/39e40202-a94e-4b7e-8156-50db8933737d" />)
+![image alt](https://github.com/muskangupta1708/Sales-Analysis-Dashboard-using-Power-BI/blob/6bba75055de5c498de3f4a938384b9683eaeb777/1.png)
 
 
 ### Product Analysis Dashboard
